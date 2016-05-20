@@ -1,4 +1,5 @@
 *.txt
+!Occupation_Data.txt
 *.pdf
 *~
 .DS_Store
